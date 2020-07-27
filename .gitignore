@@ -13,3 +13,11 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# Out directory for built binaries
+/out
+
+# Any SQLite files
+*.db
+*.sqlite3
+*.sqlite
